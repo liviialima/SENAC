@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+:root{
+    --cor-principal: rgb(65, 68, 236);
+}
+
+p{
+    color: rgb(85, 8, 8);
+}
+h1{
+    font-family: "Parisienne", cursive;
+    color: blueviolet;
+}
+#titulo-principal {
+color:aquamarine;
+}
+h2{
+     font-family: "Bodoni Moda", serif;
+}
+.topicos {
+color: darkcyan;
+}
+a{
+font-weight: bold;
+text-decoration: none;
+color:brown;
+}
+a:visited {
+color:deeppink;
+}
+a:hover {
+    text-decoration: underline;
+}
